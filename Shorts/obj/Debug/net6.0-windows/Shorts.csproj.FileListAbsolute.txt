@@ -1,0 +1,15 @@
+C:\YoutubeLecture\Shorts\bin\Debug\net6.0-windows\Shorts.exe
+C:\YoutubeLecture\Shorts\bin\Debug\net6.0-windows\Shorts.deps.json
+C:\YoutubeLecture\Shorts\bin\Debug\net6.0-windows\Shorts.runtimeconfig.json
+C:\YoutubeLecture\Shorts\bin\Debug\net6.0-windows\Shorts.dll
+C:\YoutubeLecture\Shorts\bin\Debug\net6.0-windows\Shorts.pdb
+C:\YoutubeLecture\Shorts\obj\Debug\net6.0-windows\Shorts.csproj.AssemblyReference.cache
+C:\YoutubeLecture\Shorts\obj\Debug\net6.0-windows\Shorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\YoutubeLecture\Shorts\obj\Debug\net6.0-windows\Shorts.AssemblyInfoInputs.cache
+C:\YoutubeLecture\Shorts\obj\Debug\net6.0-windows\Shorts.AssemblyInfo.cs
+C:\YoutubeLecture\Shorts\obj\Debug\net6.0-windows\Shorts.csproj.CoreCompileInputs.cache
+C:\YoutubeLecture\Shorts\obj\Debug\net6.0-windows\Shorts.dll
+C:\YoutubeLecture\Shorts\obj\Debug\net6.0-windows\refint\Shorts.dll
+C:\YoutubeLecture\Shorts\obj\Debug\net6.0-windows\Shorts.pdb
+C:\YoutubeLecture\Shorts\obj\Debug\net6.0-windows\Shorts.genruntimeconfig.cache
+C:\YoutubeLecture\Shorts\obj\Debug\net6.0-windows\ref\Shorts.dll

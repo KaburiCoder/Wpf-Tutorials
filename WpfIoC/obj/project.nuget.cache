@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGQ5UoCdHSFD9Q5c4wim93yh7VjAHSIFQWcb37H8YVGzVmW04DwE+8kj4gJxm8gg7PdH3cff1NDppVGxk1hxsg==",
+  "success": true,
+  "projectFilePath": "C:\\YoutubeLecture\\WpfIoC\\WpfIoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RENEWCOM PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\RENEWCOM PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\RENEWCOM PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
