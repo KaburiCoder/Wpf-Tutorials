@@ -46,3 +46,9 @@ C:\YoutubeLecture\WpfTutorials_\obj\Debug\net6.0-windows\refint\WpfTutorials.dll
 C:\YoutubeLecture\WpfTutorials_\obj\Debug\net6.0-windows\WpfTutorials.pdb
 C:\YoutubeLecture\WpfTutorials_\obj\Debug\net6.0-windows\WpfTutorials.genruntimeconfig.cache
 C:\YoutubeLecture\WpfTutorials_\obj\Debug\net6.0-windows\ref\WpfTutorials.dll
+C:\YoutubeLecture\WpfTutorials_\obj\Debug\net6.0-windows\DesignPattern\MVP\Views\MainView.g.cs
+C:\YoutubeLecture\WpfTutorials_\obj\Debug\net6.0-windows\DesignPattern\MVP\Views\MainView.baml
+C:\YoutubeLecture\WpfTutorials_\obj\Debug\net6.0-windows\DesignPattern\MVVM\Views\MainView.g.cs
+C:\YoutubeLecture\WpfTutorials_\obj\Debug\net6.0-windows\DesignPattern\MVVM\Views\MainView.baml
+C:\YoutubeLecture\WpfTutorials_\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\YoutubeLecture\WpfTutorials_\obj\Debug\net6.0-windows\WpfTutorials.csproj.CopyComplete

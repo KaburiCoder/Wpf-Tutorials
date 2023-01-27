@@ -20,6 +20,7 @@ namespace WpfTutorials
   /// </summary>
   public partial class MainWindow : Window
   {
+    // MVC
     private void MVCBtn_Click(object sender, RoutedEventArgs e)
     {
       var mainView = new DesignPattern.MVC.Views.MainView();
@@ -28,14 +29,29 @@ namespace WpfTutorials
       mainView.Show();
     }
 
+    // MVP
+    private void MVPBtn_Click(object sender, RoutedEventArgs e)
+    {
+      var mainView = new DesignPattern.MVP.Views.MainView();
+      var personRepository = new DesignPattern.Models.PersonRepository();
+      _ = new DesignPattern.MVP.Persenters.MainPresenter(mainView, personRepository);
+      mainView.Show();
+    }
+
+    // MVVM
+    private void MVVMBtn_Click(object sender, RoutedEventArgs e)
+    {
+      var personRepository = new DesignPattern.Models.PersonRepository();
+      var mainView = new DesignPattern.MVVM.Views.MainView()
+      {
+        DataContext = new DesignPattern.MVVM.ViewModels.MainViewModel(personRepository)
+      };
+      mainView.Show();
+    }
+
     public MainWindow()
     {
       InitializeComponent();      
-    }
-
-    private void Button_Click(object sender, RoutedEventArgs e)
-    {
-
-    }
+    }  
   }
 }

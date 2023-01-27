@@ -14,6 +14,10 @@
   <Canvas>
     <Button Content="MVC패턴" Canvas.Left="10" Canvas.Top="10" RenderTransformOrigin="-0.239,0.408" HorizontalAlignment="Left" VerticalAlignment="Center" 
             Click="MVCBtn_Click"/>
+    <Button Content="MVP패턴" Canvas.Left="10" Canvas.Top="46" RenderTransformOrigin="-0.239,0.408" HorizontalAlignment="Center" VerticalAlignment="Top" 
+            Click="MVPBtn_Click"/>
+    <Button Content="MVVM패턴" Canvas.Left="11" Canvas.Top="82" RenderTransformOrigin="-0.239,0.408" 
+      Click="MVVMBtn_Click" HorizontalAlignment="Left" VerticalAlignment="Top"/>
   </Canvas>
 </Window>
 

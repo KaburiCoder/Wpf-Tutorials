@@ -10,9 +10,21 @@
     <Compile Update="DesignPattern\MVC\Views\MainView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="DesignPattern\MVP\Views\MainView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DesignPattern\MVVM\Views\MainView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="DesignPattern\MVC\Views\MainView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DesignPattern\MVP\Views\MainView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DesignPattern\MVVM\Views\MainView.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">

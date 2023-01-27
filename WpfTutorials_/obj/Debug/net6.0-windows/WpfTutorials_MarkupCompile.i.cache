@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\YoutubeLecture\WpfTutorials_\App.xaml
-21741145016
+41469125899
 
-12218638348
-1941905061893
-DesignPattern\MVC\Views\MainView.xaml;MainWindow.xaml;
+21-329188764
+195310577878
+DesignPattern\MVC\Views\MainView.xaml;DesignPattern\MVP\Views\MainView.xaml;DesignPattern\MVVM\Views\MainView.xaml;MainWindow.xaml;
 
 True
 

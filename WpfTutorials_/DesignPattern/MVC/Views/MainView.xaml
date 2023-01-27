@@ -58,11 +58,11 @@
             Click="btnCancel_Click"
             Grid.Row="2" Grid.Column="2" Content="취소"/>
 
-    <ListView x:Name="lstView"                
+    <ListView x:Name="lstView"                                 
               Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" FontSize="20">
       <ListView.ItemContainerStyle>
         <Style TargetType="ListViewItem">
-          <EventSetter Event="PreviewMouseLeftButtonUp"
+          <EventSetter Event="PreviewMouseLeftButtonUp"                       
                        Handler="ListViewItem_PreviewMouseLeftButtonUp"/>
         </Style>
       </ListView.ItemContainerStyle>

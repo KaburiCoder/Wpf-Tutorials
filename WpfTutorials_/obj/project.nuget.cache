@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dJrjzLfyVzuHKnBNgfZQEni4LXbs+WNIawmp3Tw5h0OuthCX9bkc+EUCw4oCVfhCyitBZScU4/HyLWVR+BaKcA==",
+  "dgSpecHash": "TTkJ8PFxJyLhbvzvpFizgZiJBR1e+YksGVOf9DHancqkSMHLUtxYV6V4jK/7DtQQQi8sRi+Tv2WRasHmLFyujw==",
   "success": true,
   "projectFilePath": "C:\\YoutubeLecture\\WpfTutorials_\\WpfTutorials.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\RENEWCOM PC\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
   "logs": []
 }
