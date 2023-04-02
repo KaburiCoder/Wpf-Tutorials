@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WpfGenric/1.0.0": {
+        "dependencies": {
+          "WpfControls": "1.0.0"
+        },
+        "runtime": {
+          "WpfGenric.dll": {}
+        }
+      },
+      "WpfControls/1.0.0": {
+        "runtime": {
+          "WpfControls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfGenric/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WpfControls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\YoutubeLecture\WpfGenric\WpfControls\bin\Debug\net7.0-windows\WpfControls.deps.json
+C:\YoutubeLecture\WpfGenric\WpfControls\bin\Debug\net7.0-windows\WpfControls.dll
+C:\YoutubeLecture\WpfGenric\WpfControls\bin\Debug\net7.0-windows\WpfControls.pdb
+C:\YoutubeLecture\WpfGenric\WpfControls\obj\Debug\net7.0-windows\WpfControls.csproj.AssemblyReference.cache
+C:\YoutubeLecture\WpfGenric\WpfControls\obj\Debug\net7.0-windows\WpfControls.GeneratedMSBuildEditorConfig.editorconfig
+C:\YoutubeLecture\WpfGenric\WpfControls\obj\Debug\net7.0-windows\WpfControls.AssemblyInfoInputs.cache
+C:\YoutubeLecture\WpfGenric\WpfControls\obj\Debug\net7.0-windows\WpfControls.AssemblyInfo.cs
+C:\YoutubeLecture\WpfGenric\WpfControls\obj\Debug\net7.0-windows\WpfControls.csproj.CoreCompileInputs.cache
+C:\YoutubeLecture\WpfGenric\WpfControls\obj\Debug\net7.0-windows\WpfControls.dll
+C:\YoutubeLecture\WpfGenric\WpfControls\obj\Debug\net7.0-windows\refint\WpfControls.dll
+C:\YoutubeLecture\WpfGenric\WpfControls\obj\Debug\net7.0-windows\WpfControls.pdb
+C:\YoutubeLecture\WpfGenric\WpfControls\obj\Debug\net7.0-windows\ref\WpfControls.dll
+C:\YoutubeLecture\WpfGenric\WpfControls\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\YoutubeLecture\WpfGenric\WpfControls\obj\Debug\net7.0-windows\WpfControls_MarkupCompile.cache
+C:\YoutubeLecture\WpfGenric\WpfControls\obj\Debug\net7.0-windows\WpfControls_MarkupCompile.lref
+C:\YoutubeLecture\WpfGenric\WpfControls\obj\Debug\net7.0-windows\Themes\Generic.baml
+C:\YoutubeLecture\WpfGenric\WpfControls\obj\Debug\net7.0-windows\WpfControls.g.resources
